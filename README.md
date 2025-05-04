@@ -138,8 +138,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For questions or feedback, please contact:
-- Email: your.email@example.com
-- GitHub: [@your-username](https://github.com/yourusername)
+- Email: sanjayraja27@icloud.com
+- GitHub: [@Sanjay-RK-27](https://github.com/Sanjay-RK-27)
 
 ## 🙏 Acknowledgements
 
